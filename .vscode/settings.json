@@ -1,0 +1,8 @@
+{
+    "emmet.preferences": {
+        "javascript": "javascriptreact",
+        "emmet.showSuggestionsAsSnippets": true
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true
+}
